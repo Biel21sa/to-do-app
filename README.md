@@ -23,8 +23,8 @@ Um aplicativo simples de lista de tarefas desenvolvido em **React Native**, perm
 
 ### 1️⃣ Clone o Repositório
 ```sh
-git clone https://github.com/seu-usuario/todo-app.git
-cd todo-app
+git clone https://github.com/Biel21sa/to-do-app.git
+cd to-do-app
 ```
 
 ### 2️⃣ Instale as Dependências
